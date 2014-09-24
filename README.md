@@ -1,4 +1,4 @@
 FreeLawFounders
 ===============
 
-GitHub Repository for FreeLawFounders.org
+# GitHub Repository for FreeLawFounders.org
